@@ -1,1 +1,2 @@
 # ITCS-6162-Programming-Assignment
+This project implemented and compared three core recommendation strategies using the MovieLens 100K dataset. The three core recommendation strategies were User-Based Collaborative Filtering, Item-Based Collaborative Filtering, and a Pixie Random Walk approach. Each strategy had its advantages and disadvantages that may make them more or less preferable depending on a case-by-case situation.
